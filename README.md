@@ -1,5 +1,7 @@
-# Tutorials   
-Daily Short But Insightful Exercises
+# 5-Min Tutorials   
+# Daily Short But Insightful Exercises
+
+### Knock one out a day and improve your Python skills!
 
 
   
