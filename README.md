@@ -1,13 +1,14 @@
 # 5-Min Tutorials ⚗️
+
 # Exercise a Day Keeps The Doctor Away ⚜️⚜️⚜️
 
 ### Knock one out a day and improve your Python skills!
-**Added: Week1**   
+**Added: Week1**
 - Week1 Exercise1 - When Nested Loops Aren't The Answer
 - Week1 Exercise2 - Inheritance: Greeters Club
 - Week1 Exercise3 - Python Numbers Guessing Game
 - Week1 Exercise4 - Creating A Database in Python
-- Week1 Exercise5 - Avoid Hardcoding: Flexible Code is Simple Code
+- Week1 Exercise5 - Create A Discount Rate System
 
 **Added: Week2**
 - Week2 Exercise1 - Coding With Decorators - 5 Examples
@@ -17,4 +18,8 @@
 - Week2 Exercise5 - Dictionaries: Fantasy Character Inventory
 
 **Added: Week3**
-- Week3 Exercise1 - 
+- Week3 Exercise1 - Binary Conversion & Encryption
+- Week3 Exercise2 - Fantasy Adventure Personality Quiz
+- Week3 Exercise3 - Infinite Math Practice
+- Week3 Exercise4 - Password Strength Checker
+- Week3 Exercise5 - Simple Interest Calculator with Functions
