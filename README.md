@@ -2,10 +2,6 @@
 # Exercise a Day Keeps The Doctor Away ⚜️⚜️⚜️
 
 ### Knock one out a day and improve your Python skills!
-
-An Exercise a Day Keeps The Doctor Away ⚜️⚜️⚜️
-
-### Knock one out a day and improve your Python skills!
 **Added: Week1**   
 - Week1 Exercise1 - Counting Occurrences of Each Element in an Array (Nested Loops vs Single Loop (Or Other Optimized Approaches))
 - Week1 Exercise2 - The Flexible Greeter - A Lesson In Inheritance
