@@ -1,5 +1,5 @@
-# 5-Min Tutorials   
-# Daily Short But Insightful Exercises
+# 5-Min Tutorials ⚗️
+# Exercise a Day Keeps The Doctor Away ⚜️⚜️⚜️
 
 ### Knock one out a day and improve your Python skills!
 
