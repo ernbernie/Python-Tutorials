@@ -23,3 +23,6 @@
 - Week3 Exercise3 - Infinite Math Practice
 - Week3 Exercise4 - Password Strength Checker
 - Week3 Exercise5 - Simple Interest Calculator with Functions
+
+**Added: Week4**
+- Week4 Exercise1 - Birthday Countdown With datetime
